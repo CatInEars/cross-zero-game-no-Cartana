@@ -1,6 +1,5 @@
 $(document).ready(function(){
 
-    //тест git через atom переношу разработчику 1 от разработчика 2
     for(let i = 0; i < 9; i++) {
         $('.playzone').append('<div class="block"></div>')
     }
