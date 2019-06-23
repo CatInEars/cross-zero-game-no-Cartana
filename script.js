@@ -1,5 +1,5 @@
 $(document).ready(function(){
-    
+    //тест git через atom
     for(let i = 0; i < 9; i++) {
         $('.playzone').append('<div class="block"></div>')
     }
