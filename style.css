@@ -36,6 +36,10 @@ body {
 }
 
 .text {
+<<<<<<< HEAD
     font-family: sans-serif;
     margin: 0;
+=======
+    font-family: Arial;
+>>>>>>> 161710887ae3af72854958694666c3e2b948746e
 }
